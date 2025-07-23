@@ -1,0 +1,103 @@
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+table {
+  border-collapse: separate; 
+  border-spacing: 15px 10px;  
+  margin: auto;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+
+#felicidad {
+  width: 180px;
+  height: 120px;
+  background-color: #ffe066;
+  border: 4px solid #ff6f00;
+  padding: 20px 10px 5px 15px;
+  margin: 5px 10px 15px 20px;
+}
+
+#exito {
+  width: 140px;
+  height: 100px;
+  background-color: #caffbf;
+  border: 4px solid #007f5f;
+  padding: 15px 5px 10px 20px;
+  margin: 10px 15px 5px 10px;
+}
+
+#esperanza {
+  width: 160px;
+  height: 130px;
+  background-color: #a0c4ff;
+  border: 4px solid #003566;
+  padding: 10px 15px 20px 5px;
+  margin: 15px 5px 10px 15px;
+}
+
+#afecto {
+  width: 190px;
+  height: 110px;
+  background-color: #ffc6ff;
+  border: 4px solid #9d4edd;
+  padding: 25px 10px 10px 10px;
+  margin: 10px 10px 20px 5px;
+}
+
+#orgullo {
+  width: 150px;
+  height: 140px;
+  background-color: #f3b15f;
+  border: 4px solid #ff5400;
+  padding: 10px 25px 5px 15px;
+  margin: 5px 20px 10px 10px;
+}
+
+
+#tristeza {
+  width: 130px;
+  height: 100px;
+  background-color: #a0aec0;
+  border: 4px dotted #2d3748;
+  padding: 10px 20px 5px 15px;
+  margin: 10px 5px 20px 15px;
+}
+
+#angustia {
+  width: 120px;
+  height: 150px;
+  background-color: #c58c8c;
+  border: 4px dotted #7f1d1d;
+  padding: 5px 15px 20px 10px;
+  margin: 15px 10px 5px 20px;
+}
+
+#rabia {
+  width: 170px;
+  height: 90px;
+  background-color: #c95555;
+  border: 4px dotted #860000;
+  padding: 15px 10px 10px 20px;
+  margin: 10px 20px 15px 5px;
+}
+
+#decepcion {
+  width: 160px;
+  height: 115px;
+  background-color: #cbd5e0;
+  border: 4px dotted #4a5568;
+  padding: 20px 5px 15px 10px;
+  margin: 5px 15px 10px 20px;
+}

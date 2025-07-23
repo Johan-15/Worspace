@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.cuadro1, .cuadro2 {
+  display: inline-block;
+  width: 30%;
+  height: 25%;
+  margin: 1%;
+  vertical-align: top;
+  padding: 10px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+}
+
+.cuadro1 {
+  background-color: #c97303;
+}
+
+.cuadro2 {
+  background-color: #dbc607;
+}
+
+.cuadro1 h2, .cuadro2 h2 {
+  margin-top: 0;
+}
