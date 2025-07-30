@@ -1,0 +1,30 @@
+30/07/25
+Consulta
+	1. ¿Que es un Framework CSS en diseño web?
+
+	R//  Un framework CSS es una herramienta que ofrece estilos y componentes ya hechos
+ 	(como botones, menús, grillas, etc.) para facilitar y acelerar el diseño de páginas.
+	Permite crear sitios modernos y adaptables a distintos dispositivos sin tener que 
+	escribir todo el CSS desde cero. Ejemplos populares son Bootstrap y Tailwind CSS.
+
+
+	2. ¿Que es Bootstrap en diseño web?
+
+	R//Bootstrap es un framework CSS y JavaScript que se usa en diseño web para crear 
+	páginas rápidas, modernas y adaptables a cualquier dispositivo (diseño responsive).
+	Incluye estilos ya listos para botones, formularios, menús, tablas, cuadrículas (grillas) y 
+	más, lo que permite construir sitios sin escribir mucho código desde cero.
+	Fue creado por Twitter y es uno de los frameworks más populares por su facilidad de 
+	uso y resultados profesionales.
+
+
+	3. Identificar 2 sitios hechos con bootstrap, e inspeccionar
+	la linea de codigo donde es claro que estos sitios usan Bootstrap.
+
+	R//   -  https://artists.spotify.com/home
+	        -  https://www.newsweek.com/
+
+
+
+
+
