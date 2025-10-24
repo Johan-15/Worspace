@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/estudiantes
+
+GET http://localhost:3000/api/estudiantes/12345678A
